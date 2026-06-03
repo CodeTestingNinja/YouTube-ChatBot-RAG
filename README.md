@@ -13,7 +13,7 @@ A Retrieval-Augmented Generation (RAG) application that enables users to chat wi
 
 <br>
 
-<a href="[YOUR_STREAMLIT_URL](https://youtube-assistant-chatbot.streamlit.app/)">
+<a href="https://youtube-assistant-chatbot.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge" />
 </a>
 
