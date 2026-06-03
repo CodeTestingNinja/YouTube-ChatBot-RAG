@@ -4,12 +4,12 @@
 
 A Retrieval-Augmented Generation (RAG) application that enables users to chat with YouTube videos using transcript retrieval, FAISS vector search, and OpenAI-powered answer generation.
 
-<br>
+<!-- <br>
 
 <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-RAG-green?style=flat-square" />
 <img src="https://img.shields.io/badge/FAISS-VectorDB-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square" /> -->
 
 <br>
 
@@ -17,9 +17,9 @@ A Retrieval-Augmented Generation (RAG) application that enables users to chat wi
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/CodeTestingNinja/YouTube-ChatBot-RAG">
+<!-- <a href="https://github.com/CodeTestingNinja/YouTube-ChatBot-RAG">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
-</a>
+</a> -->
 
 <br><br>
 
