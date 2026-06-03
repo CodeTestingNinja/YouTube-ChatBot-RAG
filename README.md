@@ -21,7 +21,7 @@ A Retrieval-Augmented Generation (RAG) application that enables users to chat wi
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
 </a> -->
 
-<br><br>
+<br>
 
 </div>
 
