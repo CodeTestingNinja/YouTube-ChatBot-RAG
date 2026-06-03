@@ -22,6 +22,7 @@ A Retrieval-Augmented Generation (RAG) application that enables users to chat wi
 </a> -->
 
 <br>
+<br>
 
 </div>
 
