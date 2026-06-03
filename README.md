@@ -4,6 +4,14 @@ A Retrieval-Augmented Generation (RAG) application that allows users to chat wit
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Application:** [https://YOUR-STREAMLIT-URL.streamlit.app](https://youtube-assistant-chatbot.streamlit.app/)
+
+📂 **Repository:** https://github.com/CodeTestingNinja/YouTube-ChatBot-RAG
+
+---
+
 ## 📌 Overview
 
 This project enables users to interact with YouTube videos through natural language questions.
@@ -146,7 +154,7 @@ YouTube ChatBot using RAG
 ### Clone Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/CodeTestingNinja/YouTube-ChatBot-RAG.git
 cd YouTube-ChatBot-RAG
 ```
 
@@ -201,6 +209,17 @@ The application will be available at:
 ```text
 http://localhost:8501
 ```
+
+---
+
+## 🎯 Try It Yourself
+
+1. Open the deployed application.
+2. Paste a YouTube video URL.
+3. Click **Process Video**.
+4. Wait for transcript processing and vector indexing.
+5. Ask questions about the video.
+6. Explore the retrieved source chunks used for answering.
 
 ---
 
@@ -321,3 +340,13 @@ Special thanks to:
 * YouTube Transcript API
 
 for providing the tools and frameworks that made this project possible.
+
+---
+
+## 👨‍💻 Author
+
+**Sayantan Dutta**
+
+GitHub: https://github.com/CodeTestingNinja
+
+This project was developed as part of my learning journey into Retrieval-Augmented Generation (RAG), Vector Databases, Semantic Search, and LLM-powered applications.
