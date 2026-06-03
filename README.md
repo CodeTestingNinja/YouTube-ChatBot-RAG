@@ -1,14 +1,22 @@
+<div align="center">
+
 # 🎥 YouTube ChatBot using RAG
 
-A Retrieval-Augmented Generation (RAG) application that allows users to chat with YouTube videos by extracting transcripts, retrieving relevant context, and generating grounded answers using Large Language Models (LLMs).
+A Retrieval-Augmented Generation (RAG) application that enables users to chat with YouTube videos using transcript retrieval, FAISS vector search, and OpenAI-powered answer generation.
 
----
+<br>
 
-## 🌐 Live Demo
+<a href="YOUR_STREAMLIT_URL">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge" />
+</a>
 
-🔗 **Application:** [https://YOUR-STREAMLIT-URL.streamlit.app](https://youtube-assistant-chatbot.streamlit.app/)
+<a href="https://github.com/CodeTestingNinja/YouTube-ChatBot-RAG">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+</a>
 
-📂 **Repository:** https://github.com/CodeTestingNinja/YouTube-ChatBot-RAG
+<br><br>
+
+</div>
 
 ---
 
