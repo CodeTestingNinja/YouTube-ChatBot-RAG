@@ -6,7 +6,14 @@ A Retrieval-Augmented Generation (RAG) application that enables users to chat wi
 
 <br>
 
-<a href="YOUR_STREAMLIT_URL">
+<img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-RAG-green?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-VectorDB-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square" />
+
+<br>
+
+<a href="[YOUR_STREAMLIT_URL](https://youtube-assistant-chatbot.streamlit.app/)">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge" />
 </a>
 
@@ -351,10 +358,16 @@ for providing the tools and frameworks that made this project possible.
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 Author
 
-**Sayantan Dutta**
+### Sayantan Dutta
 
-GitHub: https://github.com/CodeTestingNinja
+<a href="https://github.com/CodeTestingNinja">
+    <img src="https://img.shields.io/badge/GitHub-CodeTestingNinja-black?style=for-the-badge&logo=github" />
+</a>
 
 This project was developed as part of my learning journey into Retrieval-Augmented Generation (RAG), Vector Databases, Semantic Search, and LLM-powered applications.
+
+</div>
