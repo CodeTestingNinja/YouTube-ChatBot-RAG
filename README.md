@@ -227,15 +227,15 @@ http://localhost:8501
 
 ### Home Page
 
-![Home](assests/home.png)
+![Home](assests/home_page.png)
 
 ### Chat Interface
 
-![Chat](assests/chat.png)
+![Chat](assests/chat_demo.png)
 
 ### Retrieved Sources
 
-![Sources](assests/sources.png)
+![Sources](assests/retrieved_sources.png)
 
 ---
 
